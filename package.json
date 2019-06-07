@@ -1,0 +1,11 @@
+{
+    "name": "rxswift-docs",
+    "version": "1.0.0",
+    "description": "This will load the static RxSwift docs",
+    "scripts": {
+        "start": "harp server --port $PORT"
+    },
+    "dependencies": {
+        "harp": "*"
+    }
+}
